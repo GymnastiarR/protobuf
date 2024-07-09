@@ -1,4 +1,4 @@
-module awesomeProject
+module protobuf
 
 go 1.22
 
